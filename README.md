@@ -1,4 +1,4 @@
-# Machine Learning Models Repository
+# Machine Learning Models
 
 This repository contains implementations of various machine learning models along with accompanying documentation and examples.
 
