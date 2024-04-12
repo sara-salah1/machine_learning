@@ -12,14 +12,15 @@ Machine learning is a rapidly evolving field with a wide range of algorithms and
 This repository includes implementations of the following machine learning models:
 
 1. Linear Regression
-2. Logistic Regression
-3. Decision Trees
-4. Random Forests
-5. Support Vector Machines (SVM)
-6. k-Nearest Neighbors (kNN)
-7. Naive Bayes
-8. Gradient Boosting Machines (GBM)
-9. Neural Networks
-10. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
+2. Polynomial Regression
+3. Logistic Regression
+4. Decision Trees
+5. Random Forests
+6. Support Vector Machines (SVM)
+7. k-Nearest Neighbors (kNN)
+8. Naive Bayes
+9. Gradient Boosting Machines (GBM)
+10. Neural Networks
+11. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
 
 Each model is documented with explanations of its underlying principles, implementation details, and usage examples.
