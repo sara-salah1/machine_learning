@@ -20,7 +20,6 @@ This repository includes implementations of the following machine learning model
 7. k-Nearest Neighbors (kNN)
 8. Naive Bayes
 9. Gradient Boosting Machines (GBM)
-10. Neural Networks
-11. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
+10. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
 
 Each model is documented with explanations of its underlying principles, implementation details, and usage examples.
