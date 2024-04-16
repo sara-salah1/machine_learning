@@ -21,6 +21,5 @@ This repository includes implementations of the following machine learning model
 8. Gradient Boosting Machines (GBM)
 9. XGBoost 
 10. AdaBoost
-11. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
 
 Each model is documented with explanations of its underlying principles, implementation details, and usage examples.
