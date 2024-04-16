@@ -18,8 +18,8 @@ This repository includes implementations of the following machine learning model
 5. Random Forests
 6. Support Vector Machines (SVM)
 7. k-Nearest Neighbors (kNN)
-8. Naive Bayes
-9. Gradient Boosting Machines (GBM)
+8. Gradient Boosting Machines (GBM)
+9. XGBoost 
 10. AdaBoost
 11. Clustering Algorithms (e.g., K-Means, Hierarchical Clustering)
 
